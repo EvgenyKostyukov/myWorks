@@ -1,6 +1,6 @@
 package Learn_Internet;
 
-public class Person_1 {
+public class IPerson_1 {
     public int height = 180;
     public String name = "Default";
 
@@ -8,15 +8,15 @@ public class Person_1 {
         System.out.println("Hello, " + name);
     }
 
-    public Person_1() {
+    public IPerson_1() {
     }
 
-    public Person_1(int h, String n) {
+    public IPerson_1(int h, String n) {
         height = h;
         name = n;
     }
 
-    public Person_1(String n) {
+    public IPerson_1(String n) {
         name = n;
     }
 }

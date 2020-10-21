@@ -2,7 +2,7 @@
 // test comment
 package Learn_Academy;
 
-public class Cat_1 {
+public class ACat_1 {
 
     public int age;
     private int money;
@@ -11,9 +11,9 @@ public class Cat_1 {
     public String nickname = "NoName";
     public String myNickname = "Barsik";
 
-    public Cat_1() {}
+    public ACat_1() {}
 
-    public Cat_1(String myNickname) {
+    public ACat_1(String myNickname) {
         nickname = myNickname;
     }
 

@@ -6,12 +6,12 @@
  */
 package Learn_Academy;
 
-public class Application_1 {
+public class AApplication_1 {
     public static void main(String[] args) {
 
         System.out.println();
-        Cat_1 cat = new Cat_1();
-        Cat_1 cat2 = new Cat_1();
+        ACat_1 cat = new ACat_1();
+        ACat_1 cat2 = new ACat_1();
 
         System.out.println("Первый кот без клички: " + cat.nickname);
         System.out.println("У второго кота кличка: " + cat2.myNickname);

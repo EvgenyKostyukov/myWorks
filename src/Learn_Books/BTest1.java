@@ -3,7 +3,7 @@
  */
 package Learn_Books;
 
-public class Test1 {
+public class BTest1 {
     public static void main(String[] args) {
         int x = 1;
         while (x < 4) {

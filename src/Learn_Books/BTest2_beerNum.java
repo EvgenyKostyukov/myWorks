@@ -4,7 +4,7 @@
  */
 package Learn_Books;
 
-public class Test2_beerNum {
+public class BTest2_beerNum {
     public static void main(String[] args) {
         int beerNum = 99;
         String word = "бутылок (бутылки)";
